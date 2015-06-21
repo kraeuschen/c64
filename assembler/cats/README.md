@@ -19,7 +19,9 @@ But its unbelievable interesting big story behind, maybe i will
 continue.
 
 # sources
-http://dustlayer.com/c64-coding-tutorials/2013/2/10/dust-c64-command-line-tool
+http://www.hvsc.c64.org/#search
+http://csdb.dk/search/?seinsel=all&search=project+one&Go.x=0&Go.y=0
+http://www.atlantis-prophecy.org/convert.htm
 
 # usage
 ```
