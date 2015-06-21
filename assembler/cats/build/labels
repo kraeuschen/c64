@@ -1,0 +1,10 @@
+irq	= $865	; ?
+play_sid	= $1003
+main	= $813
+clear_screen	= $86e	; ?
+init	= $80d	; unused
+cats	= $891
+init_sid	= $1000
+load_cats	= $87c	; ?
+picture_address	= $6000
+music_address	= $1000
